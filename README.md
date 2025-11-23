@@ -58,7 +58,7 @@ python main.py
 
 Expected output:
 ```bash
-Chat with gemini! Type 'exit' to quit.
+Chat with gemini-2.0-flash! Type 'exit' to quit.
 You:
 ```
 ---
